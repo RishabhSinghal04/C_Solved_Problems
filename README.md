@@ -1,3 +1,4 @@
 # C_Solved_Problems
 
-Solved many problems in C Language
+Solved many coding problems using C Language
+Still solving problems....
