@@ -1,16 +1,18 @@
 # C_Solved_Problems
+# main branch
 
-<<<<<<< HEAD
 Solved many coding problems using C Language
+
 Still solving problems....
-=======
+
 A repository with code of many coding problems
 
 ⭐ First, there are basics
 
 ⭐ Next Coditional Statements and Switch Case
 
-⭐ Iteration Through Loops has more than 250+ code files with 200+ patterns
+⭐ Iteration Through Loops has more than 250+ code files with 200+ patterns.
+   🌟There are also "Reference.txt" flies to tally pattern codes
 
 ⭐ Functions and Recursion are there too
 
@@ -20,4 +22,3 @@ A repository with code of many coding problems
 
 
 [For better understanding open text files in 'Word Pad' or 'VS Code' or any other application like them]
->>>>>>> ceb44fd9c36064e64eb8e8b55cfa9763d32ec2e9
