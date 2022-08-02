@@ -13,3 +13,6 @@ A repository with code of many coding problems
 ⭐ Then comes the Arrays with sorting and searching algorithms and matrix problems
 
 ⭐ That's it for now
+
+
+[For better understanding open text files in 'Word Pad' or 'VS Code' or any other application like them]
