@@ -1,3 +1,5 @@
 Pattern 18 and 22 are same.
 Pattern 19 and 23 are same. 
 Pattern 20 and 24 are same.
+
+For better understanding open text files in 'Word Pad' or 'VS Code' or any other like them.
