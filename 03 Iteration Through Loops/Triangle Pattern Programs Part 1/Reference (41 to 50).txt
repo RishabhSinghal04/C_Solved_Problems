@@ -78,5 +78,4 @@ Pattern 50
 #
 
 
-[Refer Next Reference (51-60) 
-for more]
+[Refer next Reference (51-60) for more]

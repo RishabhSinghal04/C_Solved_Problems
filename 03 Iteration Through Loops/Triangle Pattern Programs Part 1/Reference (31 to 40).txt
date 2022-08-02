@@ -78,5 +78,4 @@ Pattern 40
 1 * 2 * 3 * 4 * 5
 
 
-[Refer Next Reference (41-50) 
-for more]
+[Refer next Reference (41-50) for more]

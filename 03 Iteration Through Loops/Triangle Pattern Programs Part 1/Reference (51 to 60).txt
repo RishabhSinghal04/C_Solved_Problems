@@ -78,5 +78,4 @@ Pattern 60
 1 1 1 1 1
 
 
-[Refer Next Reference(61-73) 
-for more]
+[Refer next Reference(61-73) for more]

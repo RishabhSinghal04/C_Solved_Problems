@@ -70,5 +70,4 @@ Pattern 20
 15 13 12 6 5
 
 
-[Refer Next Reference (21-30) 
-for more]
+[Refer next Reference (21-30) for more]
