@@ -1,1 +1,0 @@
-Various coding problems solved using C language.
