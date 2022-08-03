@@ -24,6 +24,6 @@ void main()
 
 bool isTriAutomorphicNumber(unsigned int num)
 {
-    // 25 * 25 = 625 % 10^(length of 25) = 625 % 10^2 = 25
+    // 3 * (667 * 667) = 1334667 % 10^(length of 667) = 1334667 % 10^2 = 667
     return (num == (3 * (num * num)) % (int)(pow(10, (int)log10(num) + 1) + 1e-9)) ? true : false;
 }

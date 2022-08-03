@@ -24,6 +24,6 @@ void main()
 
 bool isTrimorphicNumber(unsigned int num)
 {
-    // 25 * 25 = 625 % 10^(length of 25) = 625 % 10^2 = 25
+    // 49 * 49 * 49 = 117649 % 10^(length of 49) = 117649 % 10^2 = 49
     return (num == (num * num * num) % (int)(pow(10, (int)log10(num) + 1) + 1e-9)) ? true : false;
 }
