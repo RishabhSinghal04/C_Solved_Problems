@@ -1,3 +1,4 @@
+// A number such that 2^n contains '666' as a substring
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
@@ -7,6 +8,7 @@ void main()
 {
     int num;
     char str[100];
+
     printf("Enter a number as power of 2 (2^n): ");
     scanf("%d", &num);
 
@@ -14,8 +16,9 @@ void main()
     printf("\n%s\n", str);
 
     if (strstr(str, "666"))
-        printf("Apocalypse");
+        printf("Apocalyptic Number");
     else
-        printf("Not Apolcalypse");
+        printf("Not an Apolcalypse Number");
+
     getch();
 }
