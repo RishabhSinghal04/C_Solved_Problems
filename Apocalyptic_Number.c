@@ -18,7 +18,7 @@ void main()
     if (strstr(str, "666"))
         printf("Apocalyptic Number");
     else
-        printf("Not an Apolcalypse Number");
+        printf("Not an Apocalyptic Number");
 
     getch();
 }
