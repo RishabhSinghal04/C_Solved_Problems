@@ -1,50 +1,94 @@
-<pre>
-Series_01:		1 , 2, 3, 4, 5, 6, 7, 8, 9, 10, ........... n.
+### Series 1
+$~~~~~~~~~~~~~~~~~~$ 1 , 2, 3, 4, 5, 6, 7, 8, 9, 10, ........... n. $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_01.c)
+<br></br>
 
-Series_02:		50, 45, 40, 35, 30, 25, 20, 15, 10, 5.
+### Series 2
+$~~~~~~~~~~~~~~~~~~$ 50, 45, 40, 35, 30, 25, 20, 15, 10, 5. $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_02.c)
+<br></br>
 
-Series_03:		1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + .... + n
+### Series 3
+$~~~~~~~~~~~~~~~~~~$ 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + .... + n  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_03.c)
+<br></br>
 
-Series_04:		x^2 + x^6 + x^10 + ......... x^n.
+### Series 4
+$~~~~~~~~~~~~~~~~~~$ x<sup>2</sup> + x<sup>6</sup> + x<sup>10</sup> + ......... x<sup>n</sup>. $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_04.c)
+<br></br>
 
-Series_05:		1! + 2! + 3! + 4! + 5! + 6! + 7! + .......... + n!.
+### Series 5
+$~~~~~~~~~~~~~~~~~~$ 1! + 2! + 3! + 4! + 5! + 6! + 7! + .......... + n!. $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_05.c)
+<br></br>
 
-Series_06:		(x^1)/2! + (x^3)/4! + (x^5)/6! + ....... + (x^n)/(n+1)!
+### Series 6
+$~~~~~~~~~~~~~~~~~~$ (x<sup>1</sup>)/2! + (x<sup>3</sup>)/4! + (x<sup>5</sup>)/6! + ....... + (x<sup>n</sup>)/(n+1)! $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_06.c)
+<br></br>
 
-Series_07:		1 + ( 1 + 2 ) + ( 1 + 2 + 3 ) + ( 1 + 2 + 3 + 4 ) + ............ 
+### Series 7
+$~~~~~~~~~~~~~~~~~~$ 1 + ( 1 + 2 ) + ( 1 + 2 + 3 ) + ( 1 + 2 + 3 + 4 ) + ............  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_07.c)
+<br></br>
 
-Series_08:		1, -3, 5, -7, 9 ..... 
+### Series 8
+$~~~~~~~~~~~~~~~~~~$ 1, -3, 5, -7, 9 .....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_08.c)
+<br></br>
 
-Series_09:		1, 12, 123, 1234, .... 
+### Series 9
+$~~~~~~~~~~~~~~~~~~$ 1, 12, 123, 1234, ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_09.c)
+<br></br>
 
-Series_10:		9 + 99 + 8 + 89 + .... 
+### Series 10
+$~~~~~~~~~~~~~~~~~~$ 9 + 99 + 8 + 89 + ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_10.c)
+<br></br>
 
-Series_11:		S = (1 x 2) + (2 x 3) + .... + (19 x 20)
+### Series 11
+$~~~~~~~~~~~~~~~~~~$ S = (1 x 2) + (2 x 3) + .... + (19 x 20)  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_11.c)
+<br></br>
 
-Series_12:		S = 1 + (1 x 2) + 2 + (1 x 2 x 3) .... 9 + (1 x 2 x 3 x 4 x .... x 10)
+### Series 12
+$~~~~~~~~~~~~~~~~~~$ S = 1 + (1 x 2) + 2 + (1 x 2 x 3) .... 9 + (1 x 2 x 3 x 4 x .... x 10)  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_12.c)
+<br></br>
 
-Series_13:		S = a/2! - a/3! + a/4! - a/5! + .... + a/20!
+### Series 13
+$~~~~~~~~~~~~~~~~~~$ S = a/2! - a/3! + a/4! - a/5! + .... + a/20!  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_13.c)
+<br></br>
 
-Series_14:		S = a - (a^3)/5 + (a^5)/9 - (a^7)/13 + .... 
+### Series 14
+$~~~~~~~~~~~~~~~~~~$ S = a - (a<sup>3</sup>)/5 + (a<sup>5</sup>)/9 - (a<sup>7</sup>)/13 + ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_14.c)
+<br></br>
 
-Series_15:		1, 2, 4, 7, 11, .....
+### Series 15
+$~~~~~~~~~~~~~~~~~~$ 1, 2, 4, 7, 11, .....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_15.c)
+<br></br>
 
-Series_16:		1.5, 3.0, 4.5, 6.0, 7.5, ....
+### Series 16
+$~~~~~~~~~~~~~~~~~~$ 1.5, 3.0, 4.5, 6.0, 7.5, ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_16.c)
+<br></br>
 
-Series_17:		24, 99, 224, 399, .... 
+### Series 17
+$~~~~~~~~~~~~~~~~~~$ 24, 99, 224, 399, ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_17.c)
+<br></br>
 
-Series_18:		24, 99, 224, 399, ....
+### Series 18
+$~~~~~~~~~~~~~~~~~~$ 24, 99, 224, 399, ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_18.c)
+<br></br>
 
-Series_19:		S = (1 + 2)/(1 x 2) + (1 + 2 + 3)/(1 x 2 x 3) + .... + (1 + 2 + 3 + .... + n)/(1 x 2 x 3 x.... x n).
+### Series 19
+$~~~~~~~~~~~~~~~~~~$ S = (1 + 2)/(1 x 2) + (1 + 2 + 3)/(1 x 2 x 3) + .... + (1 + 2 + 3 + .... + n)/(1 x 2 x 3 x.... x n).  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_19.c)
+<br></br>
 
-Series_20:		S = 2/3 + 4/5 + 8/7 + 16/9 + ....
+### Series 20
+$~~~~~~~~~~~~~~~~~~$ S = 2/3 + 4/5 + 8/7 + 16/9 + ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_20.c)
+<br></br>
 
-Series_21:		1, 3, 6, 11, 20, ....
+### Series 21
+$~~~~~~~~~~~~~~~~~~$ 1, 3, 6, 11, 20, ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_21.c)
+<br></br>
 
-Series_22:		1, 3, 6, 11, 18, 29, 42, ....
+### Series 22
+$~~~~~~~~~~~~~~~~~~$ 1, 3, 6, 11, 18, 29, 42, ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_22.c)
+<br></br>
 
-Series_23:		S = 1 + (1 + 2) + (1 + 2 + 3) + (1 + 2 + 3 + 4) + ...... n.
+### Series 23
+$~~~~~~~~~~~~~~~~~~$ S = 1 + (1 + 2) + (1 + 2 + 3) + (1 + 2 + 3 + 4) + ...... n.  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_23.c)
+<br></br>
 
-Series_24:		a - (a^1)/2! + (a^2)/3! - (a^3)/4! + ....  n.
-
-where n <= 20 for factorial(!)
+### Series 24
+$~~~~~~~~~~~~~~~~~~$ a - (a<sup>1</sup>)/2! + (a<sup>2</sup>)/3! - (a<sup>3</sup>)/4! + ....  n; $~$ where n <= 20 for factorial(!)  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Series%20Programs/Series_24.c)
