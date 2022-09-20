@@ -1,4 +1,4 @@
-Pattern 1<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_1.c)</p>
+Pattern 1<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_1.c)</p>
 <pre>
     1
   1 2 1
@@ -7,7 +7,7 @@ Pattern 1<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solv
     1
 </pre><br></br>
 
-Pattern 2<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_2.c)</p>
+Pattern 2<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_2.c)</p>
 <pre>
     *
   * * *
@@ -16,7 +16,7 @@ Pattern 2<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solv
     *
 </pre><br></br>
 
-Pattern 3<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_3.c)</p>
+Pattern 3<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_3.c)</p>
 <pre>
   *
  * *
@@ -25,7 +25,7 @@ Pattern 3<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solv
   *
 </pre><br></br>
 
-Pattern 4<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_4.c)</p>
+Pattern 4<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_4.c)</p>
 <pre>
   *
  * *
@@ -34,7 +34,7 @@ Pattern 4<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solv
   *
 </pre><br></br>
 
-Pattern 5<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_5.c)</p>
+Pattern 5<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_5.c)</p>
 <pre>
   A
  B B
@@ -43,7 +43,7 @@ C C C
   A
 </pre><br></br>
 
-Pattern 6<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_6.c)</p>
+Pattern 6<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_6.c)</p>
 <pre>
     A
   B B B
@@ -52,7 +52,7 @@ C C C C C
     A
 </pre><br></br>
 
-Pattern 7<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_7.c)</p>
+Pattern 7<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_7.c)</p>
 <pre>
     o
   o o o
@@ -61,7 +61,7 @@ o o o o o
     o
 </pre><br></br>
 
-Pattern 8<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_8.c)</p>
+Pattern 8<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_8.c)</p>
 <pre>
      1
    2   2
@@ -70,7 +70,7 @@ Pattern 8<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solv
      1
 </pre><br></br>
 
-Pattern 9<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_9.c)</p>
+Pattern 9<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_9.c)</p>
 <pre>
      3
    2   2
@@ -79,7 +79,7 @@ Pattern 9<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solv
      3
 </pre><br></br>
 
-Pattern 10<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_10.c)</p>
+Pattern 10<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_10.c)</p>
 <pre>
    *
   / \
@@ -89,7 +89,7 @@ Pattern 10<p align = right>[view code](https://github.com/RishabhSinghal04/C_Sol
    *
 </pre><br></br>
 
-Pattern 11<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_11.c)</p>
+Pattern 11<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_11.c)</p>
 <pre>
 * * * * * * * *
 * * *     * * *
@@ -101,7 +101,7 @@ Pattern 11<p align = right>[view code](https://github.com/RishabhSinghal04/C_Sol
 * * * * * * * *
 </pre><br></br>
 
-Pattern 12<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_12.c)</p>
+Pattern 12<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_12.c)</p>
 <pre>
     *
    - -
@@ -113,7 +113,7 @@ Pattern 12<p align = right>[view code](https://github.com/RishabhSinghal04/C_Sol
     *
 </pre><br></br>
 
-Pattern 13<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_13.c)</p>
+Pattern 13<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_13.c)</p>
 <pre>
    A
   A B
@@ -124,7 +124,7 @@ A B C D
    D
 </pre><br></br>
 
-Pattern 14<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_14.c)</p>
+Pattern 14<p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Rhombus%20Patterns/Pattern_14.c)</p>
 <pre>
       A
     C B A

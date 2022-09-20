@@ -1,4 +1,4 @@
-Pattern 01 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_01.c)</p>
+Pattern 01 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_01.c)</p>
 <pre>
 1
 1 2
@@ -6,7 +6,7 @@ Pattern 01 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4
 </pre><br></br>
 
-Pattern 02 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_02.c)</p>
+Pattern 02 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_02.c)</p>
 <pre>
 1
 2 2
@@ -14,7 +14,7 @@ Pattern 02 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 4 4 4 4
 </pre><br></br>
 
-Pattern 03 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_03.c)</p>
+Pattern 03 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_03.c)</p>
 <pre>
 A
 A B
@@ -22,7 +22,7 @@ A B C
 A B C D
 </pre><br></br>
 
-Pattern 04 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_04.c)</p>
+Pattern 04 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_04.c)</p>
 <pre>
 A
 B B
@@ -30,7 +30,7 @@ C C C
 D D D D
 </pre><br></br>
 
-Pattern 05 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_05.c)</p>
+Pattern 05 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_05.c)</p>
 <pre>
 1
 2 1
@@ -38,7 +38,7 @@ Pattern 05 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 4 3 2 1
 </pre><br></br>
 
-Pattern 06 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_06.c)</p>
+Pattern 06 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_06.c)</p>
 <pre>
  1
  4 1
@@ -46,7 +46,7 @@ Pattern 06 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 16 9 4 1
 </pre><br></br>
 
-Pattern 07 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_07.c)</p>
+Pattern 07 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_07.c)</p>
 <pre>
 1
 1 3
@@ -54,7 +54,7 @@ Pattern 07 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 3 5 7
 </pre><br></br>
 
-Pattern 08 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_08.c)</p>
+Pattern 08 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_08.c)</p>
 <pre>
 1
 3 1
@@ -62,7 +62,7 @@ Pattern 08 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 7 5 3 1
 </pre><br></br>
 
-Pattern 09 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_09.c)</p>
+Pattern 09 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_09.c)</p>
 <pre>
 1
 1 0
@@ -70,7 +70,7 @@ Pattern 09 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 0 1 0
 </pre><br></br>
 
-Pattern 10 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_10.c)</p>
+Pattern 10 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_10.c)</p>
 <pre>
 1
 0 1
@@ -78,7 +78,7 @@ Pattern 10 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 0 1 0 1
 </pre><br></br>
 
-Pattern 11 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_11.c)</p>
+Pattern 11 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_11.c)</p>
 <pre>
 4
 3 3
@@ -86,7 +86,7 @@ Pattern 11 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 1 1 1
 </pre><br></br>
 
-Pattern 12 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_12.c)</p>
+Pattern 12 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_12.c)</p>
 <pre>
 4
 4 3
@@ -94,7 +94,7 @@ Pattern 12 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 4 3 2 1
 </pre><br></br>
 
-Pattern 13 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_13.c)</p>
+Pattern 13 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_13.c)</p>
 <pre>
 4
 3 4
@@ -102,7 +102,7 @@ Pattern 13 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4
 </pre><br></br>
 
-Pattern 14 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_14.c)</p>
+Pattern 14 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_14.c)</p>
 <pre>
 2
 2 4
@@ -110,7 +110,7 @@ Pattern 14 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 2 4 6 8
 </pre><br></br>
 
-Pattern 15 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_15.c)</p>
+Pattern 15 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_15.c)</p>
 <pre>
  1
  3 2
@@ -118,7 +118,7 @@ Pattern 15 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 10 9 8 7
 </pre><br></br>
 
-Pattern 16 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_16.c)</p>
+Pattern 16 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_16.c)</p>
 <pre>
  1
  3  5
@@ -126,7 +126,7 @@ Pattern 16 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 13 15 17 19
 </pre><br></br>
 
-Pattern 17 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_17.c)</p>
+Pattern 17 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_17.c)</p>
 <pre>
  2
  4  6
@@ -134,7 +134,7 @@ Pattern 17 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 14 16 18 20
 </pre><br></br>
 
-Pattern 18 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_18.c)</p>
+Pattern 18 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_18.c)</p>
 <pre>
 1
 2  4 
@@ -142,7 +142,7 @@ Pattern 18 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 4  8 12 16
 </pre><br></br>
 
-Pattern 19 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_19.c)</p>
+Pattern 19 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_19.c)</p>
 <pre>
  1
  6  2 
@@ -151,7 +151,7 @@ Pattern 19 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 15 14 12  9  5
 </pre><br></br>
 
-Pattern 20 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_20.c)</p>
+Pattern 20 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_20.c)</p>
 <pre>
  1
  9  2 
@@ -160,7 +160,7 @@ Pattern 20 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 15 13 12  6  5
 </pre><br></br>
 
-Pattern 21 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_21.c)</p>
+Pattern 21 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_21.c)</p>
 <pre>
  5
  6  4
@@ -169,7 +169,7 @@ Pattern 21 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 15 14 10  9  1
 </pre><br></br>
 
-Pattern 22 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_22.c)</p>
+Pattern 22 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_22.c)</p>
 <pre>
 1
 2  4
@@ -178,7 +178,7 @@ Pattern 22 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 5 10 15 20 25
 </pre><br></br>
 
-Pattern 23 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_23.c)</p>
+Pattern 23 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_23.c)</p>
 <pre>
  1
  6  2
@@ -187,7 +187,7 @@ Pattern 23 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 15 14 12  9  5
 </pre><br></br>
 
-Pattern 24 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_24.c)</p>
+Pattern 24 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_24.c)</p>
 <pre>
  1
  9  2
@@ -196,7 +196,7 @@ Pattern 24 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 15 13 12  6  5
 </pre><br></br>
 
-Pattern 25 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_25.c)</p>
+Pattern 25 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_25.c)</p>
 <pre>
  5
  6  4
@@ -205,7 +205,7 @@ Pattern 25 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 15 14 10  9  1
 </pre><br></br>
 
-Pattern 26 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_26.c)</p>
+Pattern 26 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_26.c)</p>
 <pre>
 15
 14 13
@@ -214,7 +214,7 @@ Pattern 26 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
  5  4  3 2 1
 </pre><br></br>
 
-Pattern 27 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_27.c)</p>
+Pattern 27 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_27.c)</p>
 <pre>
  5
  9  4
@@ -223,7 +223,7 @@ Pattern 27 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 15 13 10  6  1
 </pre><br></br>
 
-Pattern 28 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_28.c)</p>
+Pattern 28 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_28.c)</p>
 <pre>
 1
 1 1
@@ -232,7 +232,7 @@ Pattern 28 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 4 6 4 1
 </pre><br></br>
 
-Pattern 29 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_29.c)</p>
+Pattern 29 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_29.c)</p>
 <pre>
 1
 1 2
@@ -241,7 +241,7 @@ Pattern 29 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 7 8 9 10 11
 </pre><br></br>
 
-Pattern 30 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_30.c)</p>
+Pattern 30 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_30.c)</p>
 <pre>
 1
 2 6
@@ -250,7 +250,7 @@ Pattern 30 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 5 9 12 14 15
 </pre><br></br>
 
-Pattern 31 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_31.c)</p>
+Pattern 31 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_31.c)</p>
 <pre>
  1
  1   2
@@ -259,7 +259,7 @@ Pattern 31 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 89 144 233 377 610
 </pre><br></br>
 
-Pattern 32 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_32.c)</p>
+Pattern 32 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_32.c)</p>
 <pre>
 0
 0 1
@@ -268,7 +268,7 @@ Pattern 32 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 0 1 1 2 3
 </pre><br></br>
 
-Pattern 33 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_33.c)</p>
+Pattern 33 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_33.c)</p>
 <pre>
 1
 2 4
@@ -277,7 +277,7 @@ Pattern 33 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 3 5 7 9
 </pre><br></br>
 
-Pattern 34 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_34.c)</p>
+Pattern 34 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_34.c)</p>
 <pre>
 1
 2 1
@@ -286,7 +286,7 @@ Pattern 34 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4 5
 </pre><br></br>
 
-Pattern 35 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_35.c)</p>
+Pattern 35 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_35.c)</p>
 <pre>
 1
 A B
@@ -295,7 +295,7 @@ C D E F
 5 6 7 8 9
 </pre><br></br>
 
-Pattern 36 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_36.c)</p>
+Pattern 36 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_36.c)</p>
 <pre>
  1
  2  3  2
@@ -304,7 +304,7 @@ Pattern 36 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 11 12 13 14 15 14 13 12 11
 </pre><br></br>
 
-Pattern 37 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_37.c)</p>
+Pattern 37 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_37.c)</p>
 <pre>
 1
 1 2 3
@@ -313,7 +313,7 @@ Pattern 37 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4 5 6 7 8 9
 </pre><br></br>
 
-Pattern 38 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_38.c)</p>
+Pattern 38 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_38.c)</p>
 <pre>
 1
 2 1 2
@@ -322,7 +322,7 @@ Pattern 38 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 5 4 3 2 1 2 3 4 5
 </pre><br></br>
 
-Pattern 39 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_39.c)</p>
+Pattern 39 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_39.c)</p>
 <pre>
 0
 4 0 4
@@ -331,7 +331,7 @@ Pattern 39 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4 0 4 3 2 1
 </pre><br></br>
 
-Pattern 40 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_40.c)</p>
+Pattern 40 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_40.c)</p>
 <pre>
 1
 1 * 2
@@ -340,7 +340,7 @@ Pattern 40 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 * 2 * 3 * 4 * 5
 </pre><br></br>
 
-Pattern 41 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_41.c)</p>
+Pattern 41 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_41.c)</p>
 <pre>
  1#
  2#  3#
@@ -349,7 +349,7 @@ Pattern 41 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 11# 12# 13# 14# 15#
 </pre><br></br>
 
-Pattern 42 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_42.c)</p>
+Pattern 42 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_42.c)</p>
 <pre>
  1
  3 *  2
@@ -358,7 +358,7 @@ Pattern 42 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 11 * 12 * 13 * 14 * 15
 </pre><br></br>
 
-Pattern 43 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_43.c)</p>
+Pattern 43 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_43.c)</p>
 <pre>
  1
  3 #  2
@@ -367,7 +367,7 @@ Pattern 43 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 11 # 12 # 13 # 14 # 15
 </pre><br></br>
 
-Pattern 44 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_44.c)</p>
+Pattern 44 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_44.c)</p>
 <pre>
 1
 * *
@@ -376,7 +376,7 @@ Pattern 44 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 5 5 5 5 5
 </pre><br></br>
 
-Pattern 45 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_45.c)</p>
+Pattern 45 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_45.c)</p>
 <pre>
 1
 * *
@@ -385,7 +385,7 @@ Pattern 45 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4 5
 </pre><br></br>
 
-Pattern 46 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_46.c)</p>
+Pattern 46 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_46.c)</p>
 <pre>
 A
 2 2
@@ -394,7 +394,7 @@ C C C
 E E E E E
 </pre><br></br>
 
-Pattern 47 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_47.c)</p>
+Pattern 47 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_47.c)</p>
 <pre>
 A
 1 2
@@ -403,7 +403,7 @@ A B C
 A B C D E
 </pre><br></br>
 
-Pattern 48 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_48.c)</p>
+Pattern 48 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_48.c)</p>
 <pre>
 1 2 3 4 5
 1 2 3 4
@@ -412,7 +412,7 @@ Pattern 48 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1
 </pre><br></br>
 
-Pattern 49 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_49.c)</p>
+Pattern 49 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_49.c)</p>
 <pre>
 1 1 1 1 1
 2 2 2 2
@@ -421,7 +421,7 @@ Pattern 49 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 5
 </pre><br></br>
 
-Pattern 50 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_50.c)</p>
+Pattern 50 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_50.c)</p>
 <pre>
 # @ # @ #
 # @ # @
@@ -430,7 +430,7 @@ Pattern 50 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 #
 </pre><br></br>
 
-Pattern 51 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_51.c)</p>
+Pattern 51 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_51.c)</p>
 <pre>
 1 3 5 7 9
 1 3 5 7
@@ -439,7 +439,7 @@ Pattern 51 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1
 </pre><br></br>
 
-Pattern 52 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_52.c)</p>
+Pattern 52 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_52.c)</p>
 <pre>
 5 5 5 5 5
 4 4 4 4
@@ -448,7 +448,7 @@ Pattern 52 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1
 </pre><br></br>
 
-Pattern 53 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_53.c)</p>
+Pattern 53 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_53.c)</p>
 <pre>
 5 4 3 2 1
 6 5 4 3
@@ -457,7 +457,7 @@ Pattern 53 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 9
 </pre><br></br>
 
-Pattern 54 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_54.c)</p>
+Pattern 54 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_54.c)</p>
 <pre>
 5 6 7 8 9
 4 5 6 7
@@ -466,7 +466,7 @@ Pattern 54 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1
 </pre><br></br>
 
-Pattern 55 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_55.c)</p>
+Pattern 55 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_55.c)</p>
 <pre>
 15 14 13 12 11
 10  9  8  7
@@ -475,7 +475,7 @@ Pattern 55 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
  1
 </pre><br></br>
 
-Pattern 56 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_56.c)</p>
+Pattern 56 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_56.c)</p>
 <pre>
 5 9 12 14 15
 4 8 11 13
@@ -484,7 +484,7 @@ Pattern 56 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1
 </pre><br></br>
 
-Pattern 57 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_57.c)</p>
+Pattern 57 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_57.c)</p>
 <pre>
 A A A A A
 B B B B
@@ -493,7 +493,7 @@ D D
 E
 </pre><br></br>
 
-Pattern 58 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_58.c)</p>
+Pattern 58 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_58.c)</p>
 <pre>
         1
       1 2
@@ -502,7 +502,7 @@ Pattern 58 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4 5
 </pre><br></br>
 
-Pattern 59 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_59.c)</p>
+Pattern 59 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_59.c)</p>
 <pre>
         *
       * *
@@ -511,7 +511,7 @@ Pattern 59 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 * * * * *
 </pre><br></br>
 
-Pattern 60 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_60.c)</p>
+Pattern 60 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_60.c)</p>
 <pre>
         5
       4 4
@@ -520,7 +520,7 @@ Pattern 60 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 1 1 1 1
 </pre><br></br>
 
-Pattern 61 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_61.c)</p>
+Pattern 61 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_61.c)</p>
 <pre>
         5
       4 5
@@ -529,7 +529,7 @@ Pattern 61 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 1 2 3 4 5
 </pre><br></br>
 
-Pattern 62 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_62.c)</p>
+Pattern 62 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_62.c)</p>
 <pre>
         1
       2 1
@@ -538,7 +538,7 @@ Pattern 62 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 5 4 3 2 1
 </pre><br></br>
 
-Pattern 63 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_63.c)</p>
+Pattern 63 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_63.c)</p>
 <pre>
           2
        4  6
@@ -546,7 +546,7 @@ Pattern 63 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 14 16 18 20
 </pre><br></br>
 
-Pattern 64 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_64.c)</p>
+Pattern 64 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_64.c)</p>
 <pre>
               1
           1   1
@@ -554,7 +554,7 @@ Pattern 64 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
   1   3   3   1
 </pre><br></br>
 
-Pattern 65 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_65.c)</p>
+Pattern 65 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_65.c)</p>
 <pre>
               1
           4   9
@@ -562,7 +562,7 @@ Pattern 65 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
  49  64  81 100
 </pre><br></br>
 
-Pattern 66 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_66.c)</p>
+Pattern 66 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_66.c)</p>
 <pre>
              10
           9   8
@@ -570,7 +570,7 @@ Pattern 66 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
   4   3   2   1
 </pre><br></br>
 
-Pattern 67 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_67.c)</p>
+Pattern 67 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_67.c)</p>
 <pre>
           1
        5  2
@@ -578,7 +578,7 @@ Pattern 67 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 10  9  7  4
 </pre><br></br>
 
-Pattern 68 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_68.c)</p>
+Pattern 68 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_68.c)</p>
 <pre>
               1
           7   2
@@ -586,7 +586,7 @@ Pattern 68 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
  10   9   5   4
 </pre><br></br>
 
-Pattern 69 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_69.c)</p>
+Pattern 69 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_69.c)</p>
 <pre>
               4
           5   3
@@ -594,7 +594,7 @@ Pattern 69 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
  10   8   7   1
 </pre><br></br>
 
-Pattern 70 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_70.c)</p>
+Pattern 70 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_70.c)</p>
 <pre>
               4
           7   3
@@ -602,7 +602,7 @@ Pattern 70 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
  10   8   5   1
 </pre><br></br>
 
-Pattern 71 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_71.c)</p>
+Pattern 71 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_71.c)</p>
 <pre>
       A
     A B
@@ -610,7 +610,7 @@ Pattern 71 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
 A B C D
 </pre><br></br>
 
-Pattern 72 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_72.c)</p>
+Pattern 72 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_72.c)</p>
 <pre>
 ****
  ***
@@ -618,7 +618,7 @@ Pattern 72 <p align = right>[view code](https://github.com/RishabhSinghal04/C_So
    *
 </pre><br></br>
 
-Pattern 73 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/master/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_73.c)</p>
+Pattern 73 <p align = right>[view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Triangle%20Pattern%20Programs%20Part%201/Pattern_73.c)</p>
 <pre>
  1  2  3  4
     1  2  3
