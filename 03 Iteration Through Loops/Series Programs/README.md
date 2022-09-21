@@ -23,7 +23,7 @@ $~~~~~~~~~~~~~~~~~~$ (x<sup>1</sup>)/2! + (x<sup>3</sup>)/4! + (x<sup>5</sup>)/6
 <br></br>
 
 ### Series 7
-$~~~~~~~~~~~~~~~~~~$ 1 + ( 1 + 2 ) + ( 1 + 2 + 3 ) + ( 1 + 2 + 3 + 4 ) + ............  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Series%20Programs/Series_07.c)
+$~~~~~~~~~~~~~~~~~~$ 1 + ( 1 + 2 ) + ( 1 + 2 + 3 ) + ( 1 + 2 + 3 + 4 ) + ............ <br> &emsp; &emsp; &emsp; &emsp; &ensp; [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Series%20Programs/Series_07.c)
 <br></br>
 
 ### Series 8
@@ -83,7 +83,7 @@ $~~~~~~~~~~~~~~~~~~$ 1, 3, 6, 11, 20, ....  <br> &emsp; &emsp; &emsp; &emsp; &en
 <br></br>
 
 ### Series 22
-$~~~~~~~~~~~~~~~~~~$ 1, 3, 6, 11, 18, 29, 42, ....  $~$ [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Series%20Programs/Series_22.c)
+$~~~~~~~~~~~~~~~~~~$ 1, 3, 6, 11, 18, 29, 42, .... <br> &emsp; &emsp; &emsp; &emsp; &ensp;  [view code](https://github.com/RishabhSinghal04/C_Solved_Problems/blob/main/03%20Iteration%20Through%20Loops/Series%20Programs/Series_22.c)
 <br></br>
 
 ### Series 23
