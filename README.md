@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# C_Solved_Problems
-# main branch
-
-Solved many coding problems using C Language
-
-Still solving problems....
-=======
 - [📁 *About Repository* 📂](#-about-repository-)
   - [📂 Basic C Programs](#-basic-c-programs)
   - [📂 Conditional Statements](#-conditional-statements)
@@ -19,7 +11,6 @@ Still solving problems....
 Here you'll find files of C Programming Language.<br>
 ***<li>500+ files***<br>
 ***<li>Quality of questions***</li>
->>>>>>> master
 
 ***
 
@@ -32,13 +23,8 @@ Here you'll find files of C Programming Language.<br>
 <li>Left and Right Shift Operators
 <li>Random and Pow Functions
 
-<<<<<<< HEAD
-⭐ Iteration Through Loops has more than 250+ code files with 200+ patterns.
-   🌟There are also "Reference.txt" flies to tally pattern codes
-=======
 ***
 ## 📂 Conditional Statements
->>>>>>> master
 
 <font size = 3>This includes :-</font>
 <br>
