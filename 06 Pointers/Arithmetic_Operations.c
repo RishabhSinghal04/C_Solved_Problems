@@ -1,4 +1,4 @@
-// A program to perform basic arithematic operations on pointers.
+// A program to perform basic arithmetic operations on pointers.
 
 #include <stdio.h>
 #include <conio.h>
