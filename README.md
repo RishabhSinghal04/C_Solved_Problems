@@ -8,7 +8,7 @@
   - [📂 Arrays](#-arrays)
 <br></br>
 # 📁 *About Repository* 📂
-Here you'll find files of C Programming Language.<br>
+Here you'll find code of problems solved in C Programming Language.<br>
 ***<li>500+ files***<br>
 ***<li>Quality of questions***</li>
 
@@ -17,8 +17,7 @@ Here you'll find files of C Programming Language.<br>
 ## 📂 Basic C Programs
 
 <font size = 3>Some basic programs :-</font>
-<br>
-<li>Area of shapes<br>
+<li>Area of Shapes<br>
 <li>ASCII Codes
 <li>Left and Right Shift Operators
 <li>Random and Pow Functions
@@ -27,7 +26,6 @@ Here you'll find files of C Programming Language.<br>
 ## 📂 Conditional Statements
 
 <font size = 3>This includes :-</font>
-<br>
 <li>Basic Arithmetic Operations
 <li>Roots of Quadratic Equation
 <li>A Parcel Charge Question
@@ -37,10 +35,8 @@ Here you'll find files of C Programming Language.<br>
 ***
 ## 📂 Iteration Through Loops
 
-<font size = 3>300+ Programs including 225+ Pattern Programs</font>
-<br>
-<font size = 3>Programs like :-</font>
-<br>
+<font size = 3>300+ Programs :-</font>
+<li>225+ Pattern Programs
 <li>Dice Game
 <li>Extract Digits
 <li>Factorial of a number
@@ -57,7 +53,6 @@ Here you'll find files of C Programming Language.<br>
 ***
 ## 📂 Functions
 <font size = 3>This includes :-</font>
-<br>
 <li>40+ Types of Numbers
 <li>Some Basics
 <li>Express a number as product, sum or cube of two numbers
@@ -72,7 +67,6 @@ Here you'll find files of C Programming Language.<br>
 ## 📂 Recurion
 
 <font size = 3>This includes :-</font>
-<br>
 <li>Binary Equivalent of Decimal Number
 <li>Factorial
 <li>Fibonacci Sequence
@@ -92,7 +86,6 @@ Here you'll find files of C Programming Language.<br>
 ## 📂 Pointers
 
 <font size = 3>This includes :-</font>
-<br>
 <li>Some Basics
 <li>Arithmetic Operations
 <li>Minimum Number
@@ -116,6 +109,6 @@ Here you'll find files of C Programming Language.<br>
 <li>Basic Opertions on Matrices
 <br>
 
-***Also used recursive approach in some programs***
+*Also used recursive approach in some programs*
 
 ***
