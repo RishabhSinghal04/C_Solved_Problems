@@ -101,7 +101,7 @@ C(n) = (2n)! / (n + 1)(n!)<sup>2</sup>.
 <br><br>
 
 ## 8. Circular Prime
-A circular prime number is one that remains a prime number after repeatedly relocating the first digit of the number to the end of the number.
+A circular prime number is one that remasters a prime number after repeatedly relocating the first digit of the number to the end of the number.
 For example, 197, 971 and 719 are all prime numbers.
 Similarly, 1193, 1931, 9311 and 3119 are all prime numbers.
 Other numbers that satisfy the definition are 11, 13, 37, 79, 113, 199 and 337.

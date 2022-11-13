@@ -5,15 +5,12 @@
 
 void main()
 {
-    int num1, num2;
+    unsigned long long num1, num2;
 
     printf("Enter 2 numbers: ");
-    scanf("%d %d", &num1, &num2);
+    scanf("%llu %llu", &num1, &num2);
 
-    printf("%d ^ %d is %d\n", num1, num2, (int)pow(num1, num2)); // 10 ^ 2 = 24 or any other numbers
-    
-    // To resolve the issue
-    printf("%d ^ %d is %d\n", num1, num2, (int)(pow(num1, num2) + 1e-9));
+    printf("%llu ^ %llu is %llu\n", num1, num2, (unsigned long long)pow(num1, num2));
 
     getch();
 }
