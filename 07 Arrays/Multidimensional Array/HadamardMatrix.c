@@ -14,7 +14,7 @@ void main()
     int **matrix;
     unsigned int size;
 
-    printf("Enter exponent raised to 2: ");
+    printf("Enter exponent or power (2 raised to the power of n): ");
     scanf("%hu", &n);
 
     size = (unsigned int)pow(2, n);
@@ -28,7 +28,7 @@ void main()
 
     generateHadamardMatrix(matrix, size);
 
-    printf("\nHadamard Matrix of order :-\n");
+    printf("\nHadamard Matrix of order %u X %u:-\n", size, size);
     displayMatrix(matrix, size, size);
 
     free(matrix);
