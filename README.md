@@ -6,6 +6,7 @@
   - [📂 Recurion](#-recurion)
   - [📂 Pointers](#-pointers)
   - [📂 Arrays](#-arrays)
+  - [📂 Structure](#-structure)
 <br></br>
 # 📁 *About Repository* 📂
 Here you'll find code of problems solved in C Programming Language.<br>
@@ -99,16 +100,35 @@ Here you'll find code of problems solved in C Programming Language.<br>
 <li>Some Basics
 <li>Decimal to Binary Conversion
 <li>Digits of a number
+<li>Deletion
 <li>Greatest Common Divisor (GCD)
-<li>Insert a Element in Array
+<li>Insertion
 <li>Minimum and Maximum Number in Array
 <li>Merge Arrays
 <li>Move Array Elements
+<li>Reverse an Array
+<li>Sieve of Eratosthenes
 <li>Searching Techniques
 <li>Sorting Techniques
 <li>Basic Opertions on Matrices
+<li>Determinant
+<li>Hadamard Matrix
+<li>Identity Matrix
+<li>Magic Square
+<li>Sparse Matrix
+<li>Spiral Matrix
 <br>
 
 *Also used recursive approach in some programs*
+
+***
+## 📂 Structure
+
+<font size = 3>This includes :-</font>
+<li>Basic of Structure
+<li>Addition of Two Complex Numbers
+<li>Student Information
+<li>Packing
+<li>Padding
 
 ***
