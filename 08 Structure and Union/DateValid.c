@@ -74,6 +74,10 @@ bool checkDate(struct date *Date)
             {
                 if (Date->day == 29) // Check for leap year
                 {
+                    if (Date->year % 100 == 0)
+                    {
+                        return (Date->year % 400 == 0) ? true : false;
+                    }
                     return (Date->year % 4 == 0) ? true : false;
                 }
                 return (Date->day > 0 && Date->day < 29) ? true : false;

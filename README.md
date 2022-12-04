@@ -6,7 +6,8 @@
   - [📂 Recurion](#-recurion)
   - [📂 Pointers](#-pointers)
   - [📂 Arrays](#-arrays)
-  - [📂 Structure](#-structure)
+  - [📂 Structure and Union](#-structure-and-union)
+  - [📂 Enumerations](#-enumerations)
 <br></br>
 # 📁 *About Repository* 📂
 Here you'll find code of problems solved in C Programming Language.<br>
@@ -122,13 +123,25 @@ Here you'll find code of problems solved in C Programming Language.<br>
 *Also used recursive approach in some programs*
 
 ***
-## 📂 Structure
+## 📂 Structure and Union
 
 <font size = 3>This includes :-</font>
 <li>Basic of Structure
 <li>Addition of Two Complex Numbers
+<li>Area of Rectangle
+<li>Print Valid Date
 <li>Student Information
 <li>Packing
 <li>Padding
+<li>Time Difference
+
+***
+## 📂 Enumerations
+
+<font size = 3>This includes :-</font>
+<li>Basics
+<li>Even Odd
+<li>Months
+<li>Weekdays
 
 ***
